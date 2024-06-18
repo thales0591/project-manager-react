@@ -8,6 +8,8 @@ function Select({ text, name, options, handleOnChange, value}) {
                 >{text}:
             </label>
             <select 
+                value={value || ''}
+                onChange={handleOnChange}
                 name={name} 
                 id={name}>
                 <option>Selecione uma opção</option>
