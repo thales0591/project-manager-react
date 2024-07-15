@@ -3,7 +3,7 @@
     {
       "id": "6fde",
       "name": "opateste atualziadoo",
-      "budget": "4340",
+      "budget": "6780",
       "category": {
         "id": "3",
         "name": "Design"
@@ -18,6 +18,42 @@
       "category": {
         "id": "4",
         "name": "Planejamento"
+      },
+      "cost": 1675,
+      "services": [
+        {
+          "name": "asdasds",
+          "cost": "232",
+          "description": "seila",
+          "id": "52c0251d-4f3f-4526-9731-cfb182ac6776"
+        },
+        {
+          "name": "servico 2",
+          "cost": "320",
+          "description": "seilaman",
+          "id": "2d6c5c7a-bfca-46ac-b26f-347558e827ec"
+        },
+        {
+          "name": "contratar dev backend java fudido",
+          "cost": "1000",
+          "description": "se fudeukkkkjjj",
+          "id": "20a69cd5-353b-45a1-bfd1-df88165d1dae"
+        },
+        {
+          "name": "teste",
+          "cost": "123",
+          "description": "testemano",
+          "id": "75e0068c-a344-4940-8eec-5685e94a8ebe"
+        }
+      ]
+    },
+    {
+      "id": "ffe5",
+      "name": "aleatorio",
+      "budget": "3000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": []
