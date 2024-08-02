@@ -1,6 +1,6 @@
 # Product manager made in react
 ## How to install
-First of all, make sure you have npm and node already in your machine.
+First of all, make sure you already have npm and node in your machine.
 ### 1. Clone the repository:
 ```
 https://github.com/thales0591/project-manager-react.git
